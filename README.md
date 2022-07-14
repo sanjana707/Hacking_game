@@ -8,7 +8,7 @@ Rules:
   3. Hints will be provided based on the previous guess
   4. Make sure that you enter the password in Upper Case
 
-##<strong>Have fun!!! </strong>
+## <strong>Have fun!!! </strong>
 
 
 
