@@ -3,10 +3,10 @@
 Password guessing game created using Python.
 
 Rules:
-  1. You will be given a list of passwords and one among them is correct
-  2. You need to guess the correct password within 4 attempts
-  3. Hints will be provided based on the previous guess
-  4. Make sure that you enter the password in Upper Case
+  1. You will be given a list of passwords and one among them is correct.
+  2. You need to guess the correct password within 4 attempts.
+  3. Hints will be provided based on the previous guess.
+  4. Make sure that you enter the password in Upper Case.
 
 ## <strong>Have fun!!! </strong>
 
