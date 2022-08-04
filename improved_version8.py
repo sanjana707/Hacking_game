@@ -1,10 +1,8 @@
 # Hacking Version 8
-# This is a graphical password guessing game that displays a
-# list of potential computer passwords. The player is allowed
-# up to 4 attempts to guess the password. Each time the user
-# guesses incorrectly, the user is prompted to make a new guess.
-# The game indicates whether the player successfully guessed
-# the password or not.
+# This is a graphical password guessing game that displays a list of potential computer passwords. 
+# The player is allowed up to 4 attempts to guess the password. 
+# Each time the user guesses incorrectly, the user is prompted to make a new guess.
+# The game indicates whether the player successfully guessed the password or not.
 
 
 from uagame import Window
