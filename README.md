@@ -1,6 +1,6 @@
 # Hacking game
 
-Password guessing game created using Python.
+Password guessing game developed using Python.
 
 Rules:
   1. You will be given a list of passwords and one among them is correct.
