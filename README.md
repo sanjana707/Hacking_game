@@ -2,7 +2,7 @@
 
 Password guessing game developed using Python.
 
-Rules:
+#### Rules:
   1. You will be given a list of passwords and one among them is correct.
   2. You need to guess the correct password within 4 attempts.
   3. Hints will be provided based on the previous guess.
